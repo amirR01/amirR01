@@ -1,12 +1,20 @@
 ### Hi there 👋, I'm Amir Hosein Rahmati
 I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
+### 📈 Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirR01&layout=compact&langs_count=10&theme=tokyonight)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Apache Lucene](https://img.shields.io/badge/-Apache%20Lucene-black?style=flat-square&logo=apache)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apache)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
 ### 📫 How to reach me:
 - Email: Rahmatia312@gmail.com
 - LinkedIn: [Amir Hosein Rahmati](https://www.linkedin.com/in/amir-hosein-rahmati-965a01110/)
 
-### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirR01&layout=compact)
 
 
 
