@@ -6,7 +6,8 @@ I'm interested in Software Engineering, Information Retrieval, Data Science and 
 - LinkedIn: [Amir Hosein Rahmati](https://www.linkedin.com/in/amir-hosein-rahmati-965a01110/)
 
 ### 📈 GitHub Stats
-![Amir Hosein Rahmati's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirR01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirR01&layout=compact)
+
 
 
 <!--
