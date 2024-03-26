@@ -1,8 +1,13 @@
 ### Hi there 👋, I'm Amir Hosein Rahmati
-I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions.
+I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
 ### 📫 How to reach me:
 - Email: Rahmatia312@gmail.com
+- LinkedIn: [Amir Hosein Rahmati](https://www.linkedin.com/in/amir-hosein-rahmati-965a01110/)
+
+### 📈 GitHub Stats
+![Amir Hosein Rahmati's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirR01&show_icons=true&theme=radical)
+
 
 <!--
 **amirR01/amirR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
