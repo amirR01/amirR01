@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Amir Hosein Rahmati
+I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions.
+
+### 📫 How to reach me:
+- Email: Rahmatia312@gmail.com
 
 <!--
 **amirR01/amirR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
