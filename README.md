@@ -2,7 +2,7 @@
 I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
 ### 📈 Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirR01&layout=compact&langs_count=10&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirR01&hide=Jupyter%20Notebook&layout=compact&langs_count=10&theme=tokyonight)
 
 Software Engineering Tools:
 
