@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amir Hosein Rahmati
+### Hi there 👋, I'm Amir Hossein Rahmati
 I'm interested in Software Engineering, Information Retrieval, Data Science and Distributed Systems. feel free to check my repositories and contact me if you have any questions. I am always open to new opportunities and collaborations.
 
 ### 📈 Languages and Tools:
