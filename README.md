@@ -25,7 +25,7 @@ Data Science Tools:
 
 
 ### 📫 How to reach me:
-- Email: Rahmatia312@gmail.com
+- Email: amir.hossein.rahmati.03@gmail.com
 - LinkedIn: [Amir Hosein Rahmati](https://www.linkedin.com/in/amir-hosein-rahmati-965a01110/)
 
 
